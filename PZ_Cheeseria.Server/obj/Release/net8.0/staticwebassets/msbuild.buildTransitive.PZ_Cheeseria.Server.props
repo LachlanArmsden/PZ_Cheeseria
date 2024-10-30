@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PZ_Cheeseria.Server.props" />
+</Project>

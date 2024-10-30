@@ -1,0 +1,6 @@
+@PZ_Cheeseria.Server_HostAddress = http://localhost:5168
+
+GET {{PZ_Cheeseria.Server_HostAddress}}/cheese/
+Accept: application/json
+
+###
